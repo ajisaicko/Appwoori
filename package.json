@@ -1,0 +1,23 @@
+{
+  "name": "appwoori",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajisaicko/Appwoori.git"
+  },
+  "keywords": [
+    "Appwoori.",
+    "nodejs"
+  ],
+  "author": "Indra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajisaicko/Appwoori/issues"
+  },
+  "homepage": "https://github.com/ajisaicko/Appwoori#readme"
+}
